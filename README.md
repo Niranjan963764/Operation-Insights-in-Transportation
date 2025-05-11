@@ -1,6 +1,15 @@
 # Operation-Insights-in-Transportation
  Inter-City Taxi Operations Dashboard | Codebasics Resume Project Challenge
 
+I created a Power BI dashboard that tracks key performance metrics like:
+
+📍 Trip Volume
+📍Passenger Satisfaction
+📍Repeat-Ride Rate
+📍Trip Distribution
+📍New vs. Returning Passengers
+📍Revenue Trends 
+
 ## Home
 ![a-home](https://github.com/user-attachments/assets/2000ba45-18af-4eed-83b2-67c0f4f94df0)
 
